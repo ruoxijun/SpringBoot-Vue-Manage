@@ -11,7 +11,7 @@
 1.   使用 `vue create vue-manage` 命令创建项目。
 2.   选择 `Manually select features` 选项回车表示手动创建项目。
 
-![image-20210912101649454](/ruoxijun/SpringBoot-Vue-Manage/blob/main/ty_imgs/image-20210912101649454.png)
+![image-20210912101649454](https://github.com/ruoxijun/SpringBoot-Vue-Manage/blob/1e902241dc06fc91874577043c067f2bb559e79e/ty_imgs/image-20210912101649454.png)
 
 3.   通过上下箭头移动光标，使用空格选择或取消选项。选择如下图个选项：
 
