@@ -15,7 +15,7 @@
 
 3.   通过上下箭头移动光标，使用空格选择或取消选项。选择如下图个选项：
 
-![image-20210912102335024](.\ty_imgs\image-20210912102335024-16314134185741.png)
+![image-20210912102335024](https://github.com/ruoxijun/SpringBoot-Vue-Manage/blob/1e902241dc06fc91874577043c067f2bb559e79e/ty_imgs/image-20210912102335024-16314134185741.png)
 
 4.   在 `Choose Vue version` 选项回车选择vue版本 **3.x** 
 5.   出现 `Use history mode for router?` 选择路由Y表示使用history模式，N表示使用hash模式(即URL地址里面带有#)：这里我们输入 **y**
@@ -24,7 +24,7 @@
 
 **配置总览：**
 
-![image-20210912103433643](.\ty_imgs\image-20210912103433643-16314140760192.png)
+![image-20210912103433643](https://github.com/ruoxijun/SpringBoot-Vue-Manage/blob/1e902241dc06fc91874577043c067f2bb559e79e/ty_imgs/image-20210912103433643-16314140760192.png)
 
 项目创建成功：命令窗口移动到项目文件夹中使用 `npm run serve` 启动项目， 浏览器中输入 `http://localhost:8080/` 查看。命令窗口中 `ctrl+c` 并输入 **y** 退出项目。
 
